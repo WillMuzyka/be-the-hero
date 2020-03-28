@@ -10,9 +10,9 @@
   Steps
   1. In the backend folder, run the command `npm install` to install all the required packages listed on the file `package.json`. Note that some packages also have dependencies that are all being installed with this command and are required to the application.
   2. After installing the packages, run the command `npm start` to start the server. This will keep runing until you end the application (Ctrl + C) or close the window that is running. It will not run in the background, so you need to keep the window open.
-  3.In the frontend folder, run the command `npm install`, to install the frontend dependencies and after that `npm start`. Your browser should open a new window/tab with the application runing.
-  5.For running the mobile part, ***add mobile part***
-  4.Enjoy the application!
+  3. In the frontend folder, run the command `npm install`, to install the frontend dependencies and after that `npm start`. Your browser should open a new window/tab with the application runing.
+  5. For running the mobile part, ***add mobile part***
+  4. Enjoy the application!
   
 ## Remarks
   Please notice that this project was made during a week, for better understanding the concepts of the node.js, react and react native.
