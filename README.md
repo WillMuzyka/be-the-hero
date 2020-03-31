@@ -1,11 +1,18 @@
 <p align="center">
   <img width="250" height="106" src=".github/logo.svg">
 </p>
-
-# :rocket: Be The Hero
-
-## :rocket: Omnistack Week 11.0
-[Technologies](#technologies) | [Installation](#installation) | [Remarks](#remarks) | [Thanks](#thanks)
+<br/>
+<h1 align="center">🚀 Be The Hero</h1>
+<h2 align="center">🚀 Omnistack Week 11.0</h2>
+<br/>
+<p align="center">
+  <a href="#technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#installation">Installation</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#remarks">Remarks</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#thanks">Thanks</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#license">License</a>
+</p>
+<br/>
   This project is an application for nongovernmental organization (NGO) add their projects, incidents and costs, making it available for heroes to donate and help these NGO.
   The application has an web and a mobile version, using react and react native. The backend was built using node.js.
   
