@@ -2,8 +2,8 @@
   <img width="250" height="106" src=".github/logo.svg">
 </p>
 <br/>
-<h1 align="center">🚀 Be The Hero</h1>
-<h2 align="center">🚀 Omnistack Week 11.0</h2>
+<h1 align="center" border-bottom: none>🚀 Be The Hero</h1>
+<h2 align="center" border-bottom: none>🚀 Omnistack Week 11.0</h2>
 <br/>
 <p align="center">
   <a href="#technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
