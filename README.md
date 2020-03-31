@@ -2,8 +2,8 @@
   <img width="250" height="106" src=".github/logo.svg">
 </p>
 <br/>
-<h1 align="center" border-bottom: none>🚀 Be The Hero</h1>
-<h2 align="center" border-bottom: none>🚀 Omnistack Week 11.0</h2>
+<h1 align="center" text-decoration: "none">🚀 Be The Hero</h1>
+<h2 align="center" text-decoration: "none">Omnistack Week 11.0</h2>
 <br/>
 <p align="center">
   <a href="#technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -55,5 +55,5 @@
 ## :handshake: Thanks
   I want to thank the Rocketseat team for making these awesome videos and this amazing week, full of knowledge. It help a lot of people to better understand programming and web development. If anyone wants to learn more about them, the link for their website is [this](https://rocketseat.com.br/). Please notice that the subjects are taught in portuguese (BR).
 
-## :: LICENSE
+## :memo: LICENSE
   This project is under the MIT License. For more information, please refer to [LICENSE](LICENSE.md).
