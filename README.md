@@ -1,7 +1,6 @@
 <p align="center">
   <img width="250" height="106" src=".github/logo.svg">
 </p>
-<br/>
 <h1 align="center" text-decoration: "none">🚀 Be The Hero</h1>
 <h2 align="center" text-decoration: "none">Omnistack Week 11.0</h2>
 <br/>
